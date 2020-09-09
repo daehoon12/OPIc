@@ -26,30 +26,30 @@ That's all.
  
 <br/>
 
-1. Oh, you wanna know about my place? 
+1. Oh, you wanna know about my place?  
  -> Oh, so you wanna know about my place... alright, well... (Rule 1. 에바에게 질문하지 않는다.)
  
 <br/>
  
-2. Basically, I live in 4-storey house. 
+2. Basically, I live in 4-storey house.  
   -> My home is really small. (Rule 2. 어려운 단어 대신 쉬운 단어 쓰기)  
 
 <br/>
 
-3. This place is a very small place.
+3. This place is a very small place.  
   -> My place is very small. (Rule 3. 똑같은 단어 두번 쓰지 않기)
 
 <br/>
 
-4. Looks like, maybe... shoebox?
+4. Looks like, maybe... shoebox?  
   -> 직유법을 이용해 좋은 문장을 만들었다.
 
 <br/>
 
-5. So... but... this place very, very comfortable and cozy because only focus me. Focus to me.
-  -> My place is very, very comfortable.
-     I mean, it's just so cozy.
-     it's just right for me. (나한테 딱이다.)  
+5. So... but... this place very, very comfortable and cozy because only focus me. Focus to me.  
+  -> My place is very, very comfortable.  
+     I mean, it's just so cozy.  
+     it's just right for me. (나한테 딱이다.)   
      it's perfect! (Rule 4. 무언가를 묘사하거나 감정 단어 2개를 말할때, and 사용하지 말기)  
 
 <br/>
