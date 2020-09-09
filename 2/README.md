@@ -10,7 +10,7 @@ I love this time because I can do everything what i want.
 <br/> 
 But you know what?  
 <br/>  
-I love watch movies.
+I love watch movies.  
 So, I usually watch movies at home.  
 It makes me flexed.  
 Quite good, um...  
