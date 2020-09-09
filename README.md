@@ -39,6 +39,12 @@ Use simple words you are totally confident in using!
 
 한 가지에 대해서만 말하기
 
+
+### Rule 6:
+#### If you get nervous and have nothing to say, go right to the conclusion! 
+
+긴장이 되고 할말이 없을 땐, 바로 결론으로 가기!
+
 <br/>
 
 ## Categories
