@@ -38,3 +38,9 @@ Use simple words you are totally confident in using!
 #### Talk about one thing, and one thing only!  
 
 한 가지에 대해서만 말하기
+
+<br/>
+
+## Categories
+
+### Description (설명) / Habit (습관) / Past Experience (과거 경험) / Comparison (비교)
