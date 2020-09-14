@@ -1,52 +1,24 @@
-# OPIc
+# 5  
 
-## Rule  
+- 방귀 표현 4가지  
+1. let it rip / let one rip  
+ex) I needed to let it rip.
 
-### Rule 1 :
-#### Never ask Ava a question.  
-If you must, ask a rhetorical question.  
+2. cut cheese  
+ex) I was at Starbucks and all of a sudden I had to cut cheese.  
 
-Ava한테 질문하지 말기.  
-질문 할때는, 대답이 필요없는 질문으로  
-  
+3. thunder from down under  
+ex) I was at the bar with my friends the other day, and all of a sudden I felt a little thunder from down under.  
 
-
-### Rule 2:
-#### Do not use difficult words that you are uncomfortable with.  
-Use simple words you are totally confident in using!  
-
-불편한 어려운 단어 사용하지 않기.  
-사용하고 편하고 자신감있는 간단한 단어 사용하기  
-
-
-
-### Rule 3:
-#### Try not to repeat the same word in the same sentence.  
-
-한 문장에서 같은 단어 반복하지 않기
-
-
-
-### Rule 4:
-#### Don't use 2 descriptive or feeling words Using "and"!  
-
-무언가를 묘사하거나 감정 단어 2개를 말할 때, and 사용하지 말기  
-
-
-
-### Rule 5:
-#### Talk about one thing, and one thing only!  
-
-한 가지에 대해서만 말하기
-
-
-### Rule 6:
-#### If you get nervous and have nothing to say, go right to the conclusion! 
-
-긴장이 되고 할말이 없을 땐, 바로 결론으로 가기!
-
-<br/>
-
-## Categories
-
-### Description (설명) / Habit (습관) / Past Experience (과거 경험) / Comparison (비교)
+4. slient but deadly
+ex) I cut cheese in the restaurant, and I was hopign that no one would find out.  
+    I mean, it was slient, but deadly.  
+    
+    
+- 볼일 표현 4가지
+1. number 1 (소)  
+2. number 2 (대)  
+3. take a dump (Highclass) 
+ex) I felt like taking a dump during the meeting. Oh, the timing was terrible.  
+4. deuce it.
+ex) I had to deuce it.
