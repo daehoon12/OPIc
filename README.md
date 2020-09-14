@@ -45,6 +45,13 @@ Use simple words you are totally confident in using!
 
 긴장이 되고 할말이 없을 땐, 바로 결론으로 가기!
 
+
+### Rule 7:
+#### Make "honest excuses" later. Not in the beginning!
+
+"솔직한 변명은" 나중에 하기. 처음 부분에서 하지 않기!
+
+
 <br/>
 
 ## Categories
