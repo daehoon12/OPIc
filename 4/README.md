@@ -1,52 +1,44 @@
-# OPIc
+# Q. You indicated in the survey that you stay at home for vacations. Who are the people you would like to see and spend time with on your vacation.  (Description, habit)
 
-## Rule  
-
-### Rule 1 :
-#### Never ask Ava a question.  
-If you must, ask a rhetorical question.  
-
-Ava한테 질문하지 말기.  
-질문 할때는, 대답이 필요없는 질문으로  
-  
-
-
-### Rule 2:
-#### Do not use difficult words that you are uncomfortable with.  
-Use simple words you are totally confident in using!  
-
-불편한 어려운 단어 사용하지 않기.  
-사용하고 편하고 자신감있는 간단한 단어 사용하기  
-
-
-
-### Rule 3:
-#### Try not to repeat the same word in the same sentence.  
-
-한 문장에서 같은 단어 반복하지 않기
-
-
-
-### Rule 4:
-#### Don't use 2 descriptive or feeling words Using "and"!  
-
-무언가를 묘사하거나 감정 단어 2개를 말할 때, and 사용하지 말기  
-
-
-
-### Rule 5:
-#### Talk about one thing, and one thing only!  
-
-한 가지에 대해서만 말하기
-
-
-### Rule 6:
-#### If you get nervous and have nothing to say, go right to the conclusion! 
-
-긴장이 되고 할말이 없을 땐, 바로 결론으로 가기!
+# A. 
+Vacations at home... alright.  
+Um, I'm living with my family, uh, at home.  
 
 <br/>
 
-## Categories
+So, whether I like it or not, I have to see my family during vacation.  
+Um, and it made me so annoyed because, as I already told you before, I'm not that outgoing person.  
 
-### Description (설명) / Habit (습관) / Past Experience (과거 경험) / Comparison (비교)
+<br/>
+
+So, I prefer to spend my own time rather than spendin time with someone.  
+So, I prefer the things like, um just seeing Youtube.. watching Youtube...
+
+<br/>
+
+But with family it's so hard because, yeah, my family always wants to keep talking with me.  
+And so, I really hope i can buy my own house in the future.  
+
+
+1. Vacations at home... alright.  
+ -> 질문에 있는 단어를 조합, 그리고 OK보다 alright가 좋다.  
+2. Um, I'm living with my family, uh, at home.  
+ -> I'm living with my parents.  
+3. So, whether I like it or not, I have to see my family during vacation. 
+ -> So, whether I like it or not, I have no choice but to be with my parents.  
+4. Um, and it made me so annoyed because, as I already told you before, I'm not that outgoing person.
+ ->  Um, and it makes me so annoyed because I'm not that outgoing.  
+5. So, I prefer to spend my own time rather than spending time with someone.
+ -> So I prefer to spend time alone.  
+ 6. So, I prefer the things like, um just seeing Youtube.. watching Youtube...
+ -> So, I prefer watching Youtube.. or listening to music (문법은 중요하지 않다. 그냥 바로 말하자)  
+ 7. But with family it's so hard because, yeah, my family always wants to keep talking with me.  
+  -> But I can't do anything with my parents around. They always want to talk with me.  
+ 8. And so, I really hope i can buy my own house in the future.  
+  -> And so, I rally hope I can move out soon. (move out : 이사하다)
+ 
+ 
+ <br/>
+ 
+ - 첫번째 질문을 들을 때 어떤 카테고리일지 생각
+ - 두번째 들을 때 어떤 한가지에 대해서 말할지 생각  
