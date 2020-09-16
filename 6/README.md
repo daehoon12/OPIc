@@ -1,59 +1,30 @@
-# OPIc
+# Q. Tell me about your home. 
 
-## Rule  
+## Description  
+- 깔끔한 메인포인트가 있어야 함.  
+- My favorite로 문장을 시작하지 않는다. (대신 I like, I love)  
 
-### Rule 1 :
-#### Never ask Ava a question.  
-If you must, ask a rhetorical question.  
-
-Ava한테 질문하지 말기.  
-질문 할때는, 대답이 필요없는 질문으로  
-  
-
-
-### Rule 2:
-#### Do not use difficult words that you are uncomfortable with.  
-Use simple words you are totally confident in using!  
-
-불편한 어려운 단어 사용하지 않기.  
-사용하고 편하고 자신감있는 간단한 단어 사용하기  
-
-
-
-### Rule 3:
-#### Try not to repeat the same word in the same sentence.  
-
-한 문장에서 같은 단어 반복하지 않기
-
-
-
-### Rule 4:
-#### Don't use 2 descriptive or feeling words Using "and"!  
-
-무언가를 묘사하거나 감정 단어 2개를 말할 때, and 사용하지 말기  
-
-
-
-### Rule 5:
-#### Talk about one thing, and one thing only!  
-
-한 가지에 대해서만 말하기
-
-
-### Rule 6:
-#### If you get nervous and have nothing to say, go right to the conclusion! 
-
-긴장이 되고 할말이 없을 땐, 바로 결론으로 가기!
-
-
-### Rule 7:
-#### Make "honest excuses" later. Not in the beginning!
-
-"솔직한 변명은" 나중에 하기. 처음 부분에서 하지 않기!
-
+1. My home isn't big.  
+2. But it's not small either.  
+3. My favorite room is my storage room. 
+4. It's so spacious.  
 
 <br/>
 
-## Categories
+1. My home isn't **all that** big.  
+2. But, you know  (쭈노), it's not **all that** small either.  
+3. **But i got to say (But I gotta say)**, **What I really love about** my home is my storage room.  
+4. It's **just** so spacious.  
 
-### Description (설명) / Habit (습관) / Past Experience (과거 경험) / Comparison (비교)
+- 1,2번 설명하는 filler. 3,4번 Mainpoint.  
+- Mainpoint를 먼저 설명하고 filler를 뒤에 넣으면 더 깔끔하다.
+
+1. **You know, I gotta say,** What I really love about my home is my storage room.  
+2. It's **just** so spacious.  
+(Mainpoint : 창고)  
+3. **You see,** My home isn't **all that** big.  
+4. **But, you know,** it's not **all that** small either.  
+(Filler : 우리 집에 대한 설명)  
+5. But none of that **really** matters **I guess** cos I love how big storage room is.  
+(Mainpoint 다시 설명)
+
