@@ -1,6 +1,6 @@
 # Q. What do you usually do whenever you go to the bank? (Typical habit based question)  
 
-## Habit Expression.  
+## Habit Expression  
 
 **1. No matter what, Whenever I...
   I always make sure to bring...**  
