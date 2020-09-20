@@ -3,14 +3,14 @@
 ## Habit Expression.  
 
 **1. No matter what, Whenever I...
-  I always make sure to bring...**
+  I always make sure to bring...**  
 ex)  
 Well. here's the thing.  
 Whenever I go th the bank.  
 I always make sure to bring my airpods (에어팟이 Main Point, 에어팟에 대한 얘기만 한다.)
 
 **2. Every time...  
-   I always check to see that/if I have...**
+   I always check to see that/if I have...**   
 ex)  
 Well. 
 Every time I go to the bank.  
