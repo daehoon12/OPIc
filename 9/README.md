@@ -32,7 +32,8 @@
 6. But these days, I feel (that) my hair gives me confidence.  
 
 ## Habit 질문  
+
 1. 뭐하는지 설명  
 2. 나한테는 너무 중요하다  
-3,4. 프리스타일  
-5,6. 빠른 비교
+3 4. 프리스타일  
+5 6. 빠른 비교
