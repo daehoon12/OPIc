@@ -21,9 +21,20 @@ A.
 ### Example  
 Q. What do people usally wear in your country?  
 A.  
-1. **You know, I gotta say, What I really hate about fashion** here in Korea. People only wear safe colors.   
+1. **You know, I gotta say, What I really hate about fashion** here in Korea it that People only wear safe colors.   
 2. **I find it** quite boring.  
 3. You see. for me I try not to follow those trends.  
 4. I try to wear colorful and fancy clothes.  
 5. **I guess, you can say.** I like to stand out.  
 6. 나의 패션에 대해 설명, 만약 못하겠으면 여기서 끝내자  
+
+## Furniture  
+
+### Example 
+Q. Tell me about the furniture in your home.  
+A.
+1. **You know, I gotta say, What I really love about furniture** here in my room is my work desk.  
+2. Because It's **completely** black and **totally** **stands out** in my room.  
+3. **You know**, my other furniture is **all** light in color.  
+4. So, I love my work desk.  
+5. 검정 책상에 대해서 계속 이야기한다.  
