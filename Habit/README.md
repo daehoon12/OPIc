@@ -23,7 +23,7 @@ And so. whenever I'm listening to the music. it really helps me to kill time.
 **But you see. in the past, I never did that before.  
 so the waiting time was just so long.** (Quick Comparison, 동사가 과거형이다!)  
 And that is why. you know.  
-Sometime, whenever I go to the bank  
+Sometimes, whenever I go to the bank  
 I sometimes want the waiting time to be longer  
 because I really enjoy my music. (결론)  
 
@@ -36,3 +36,6 @@ It's quite **rare** for me to take other option.
 It's the only time I can actually read! (Free Style)  
 It's interesting cos I'**ve never liked** reading **before**.  
 I **still** don't, but I love how it helps me to kill time especially while I'm commuting. (Quick Comparison)  
+
+### Recycling  
+ 
