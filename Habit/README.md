@@ -28,3 +28,11 @@ I sometimes want the waiting time to be longer
 because I really enjoy my music. (결론)  
 
 ### Transportation
+
+No matter what, Whenever I need to go somewhere, I always take the "subway or bus."  (Main Point)
+**This is crucual.**  
+It's quite **rare** for me to take other option.  
+**I love how** I can read something while takeing the public transit. (What I really love about도 가능)   
+It's the only time I can actually read! (Free Style)  
+It's interesting cos I'**ve never liked** reading **before**.  
+I **still** don't, but I love how it helps me to kill time especially while I'm commuting. (Quick Comparison)  
